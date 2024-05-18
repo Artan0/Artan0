@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Artan</h1>
-<h3 align="center">Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artan0&label=Profile%20views&color=0e75b6&style=flat" alt="artan0" /> </p>
 
